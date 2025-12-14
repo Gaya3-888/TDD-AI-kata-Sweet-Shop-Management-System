@@ -4,13 +4,13 @@ This directory contains screenshots of the Sweet Shop Management System applicat
 
 ## Screenshots Included:
 
-1. **"Screenshot 1.png"** - Login page with modern gradient design
-2. **Screenshot 2.png** - User registration interface  
-3. **Screenshot 3.png** - Admin dashboard with inventory overview
-4. **Screenshot 4.png** - Admin panel for adding/deleting items
-5. **Screenshot 5.png** - Admin panel inventory management
-6. **Screenshot 6.png** - User dashboard with sweet catalog
-7. **Screenshot 7.png** - User dashboard showing stock reduction on cart add
+1. **screenshots/Screenshot 1.png** - Login page with modern gradient design
+2. **screenshots/Screenshot 2.png** - User registration interface  
+3. **screenshots/Screenshot 3.png** - Admin dashboard with inventory overview
+4. **screenshots/Screenshot 4.png** - Admin panel for adding/deleting items
+5. **screenshots/Screenshot 5.png** - Admin panel inventory management
+6. **screenshots/Screenshot 6.png** - User dashboard with sweet catalog
+7. **screenshots/Screenshot 7.png** - User dashboard showing stock reduction on cart add
 
 ## Features Demonstrated:
 
