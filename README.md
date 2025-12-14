@@ -439,7 +439,7 @@ Register a new user account.
   "name": "John Doe",
   "email": "john@example.com",
   "password": "password123",
-  "role": "user" // optional, defaults to "user"
+  "role": "user"
 }
 ```
 
@@ -965,7 +965,7 @@ If you encounter any issues or have questions:
 
 ---
 
-🍭 **Sweet Shop Management System** - Built with ❤️ using Test-Driven Development methodology and modern web technologies.
+🍭 **Sweet Shop Management System** - Built with using Test-Driven Development methodology and modern web technologies.
 # Install dependencies
 npm run install:all
 
