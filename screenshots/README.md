@@ -4,7 +4,7 @@ This directory contains screenshots of the Sweet Shop Management System applicat
 
 ## Screenshots Included:
 
-1. **Screenshot 1.png** - Login page with modern gradient design
+1. **"Screenshot 1.png"** - Login page with modern gradient design
 2. **Screenshot 2.png** - User registration interface  
 3. **Screenshot 3.png** - Admin dashboard with inventory overview
 4. **Screenshot 4.png** - Admin panel for adding/deleting items
